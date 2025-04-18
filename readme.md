@@ -4,8 +4,4 @@
 pip install -r requirements.txt
 ```
 
-#### Extract the dataset:
-```bash
-cd dataset/
-tar -xzvf circuit_dataset.tar.gz
-```
+Testirano na jupyter lab-u, za Google collab potrebno otkomentiar import za cv2_imshow() i koristit tu f-ju umjesto plt.imshow()
